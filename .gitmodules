@@ -1,0 +1,3 @@
+[submodule "lib/dino"]
+	path = lib/dino
+	url = git@github.com:kevinthompson/dino.git
