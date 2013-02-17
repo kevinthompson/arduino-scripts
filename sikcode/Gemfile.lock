@@ -1,5 +1,7 @@
-PATH
-  remote: ~/code/dino
+GIT
+  remote: git://github.com/kevinthompson/dino.git
+  revision: 85533ba68dbcafb5d70574957a478f2e8fb477e3
+  branch: kt/add_status_component
   specs:
     dino (0.10.0)
       serialport
