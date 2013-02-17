@@ -1,7 +1,8 @@
-PATH
-  remote: ~/code/arduino/lib/dino
+GIT
+  remote: git://github.com/kevinthompson/dino.git
+  revision: 3c9766d21cdaca570ac9d635559c6b3069b65511
   specs:
-    dino (0.9.1)
+    dino (0.10.0)
       serialport
 
 GEM

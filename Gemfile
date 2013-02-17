@@ -1,3 +1,3 @@
 source :rubygems
-gem 'dino', path: '~/code/arduino/lib/dino'
+gem 'dino', git: 'git://github.com/kevinthompson/dino.git'
 gem 'httparty'
