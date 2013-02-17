@@ -1,0 +1,16 @@
+PATH
+  remote: ~/code/dino
+  specs:
+    dino (0.10.0)
+      serialport
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    serialport (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dino!
